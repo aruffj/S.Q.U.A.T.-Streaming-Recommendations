@@ -46,6 +46,8 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 Stuff below here offers some useful features but will constantly try to upsell you and/or rope you into their eco-system. 
 
 ### Web Sources Services
+| Name | Link | Description |
+|----|----|----|
 | StreamElements | [LINK](https://streamelements.com/) | Webservice to creat chat overlays, Follwer Counts etc. |
 | StreamLabs | [LINK](https://streamlabs.com/) | Webservice to creat chat overlays, Follwer Counts etc. |
 | Spotify Overlay | [LINK](https://nowplaying.site/) | Displays an animated "Now Playing" Thingiemagingie on your Stream |
