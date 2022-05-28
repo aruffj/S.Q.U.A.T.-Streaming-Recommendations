@@ -15,6 +15,7 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 |----|----|----|
 | Macrodeck | [Website](https://macrodeck.org/) | Allows you to control your OBS via your android phone |
 | Veadotube Mini | [itch.io](https://olmewe.itch.io/veadotube-mini) | veadotube mini is a lightweight, easy-to-use vtuber app. if all you need is a simple program that lets you switch between two images as you talk, then this program is for you!|
+| AirServer | [Website](https://www.airserver.com/) | Airserver allows you to mirror other devices to your Streaming PC. Helpful if you're drawing on your tablet! **Note**: This is an paid app. |
 
 ## OBS Plugins
 | Name | Link | Description |
