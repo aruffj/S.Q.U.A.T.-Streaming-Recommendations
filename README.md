@@ -41,7 +41,7 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 | Name | Link | Description |
 |----|----|----|
 | Blackmagic Design Davinci Resolve | [Website](https://www.blackmagicdesign.com/de/products/davinciresolve/) |  Free Version. Use that for transition animations etc. |
-| KDEnlive | [Website](https://kdenlive.org/en/) | Same as Davinci -- just in really "Free and open source |
+| KDEnlive | [Website](https://kdenlive.org/en/) | Same as Davinci - Just Fully Open Source Software. A bit harder to use then Davinci |
 
 # Paid Stuff
 Stuff below here offers some useful features but will constantly try to upsell you and/or rope you into their eco-system. 
