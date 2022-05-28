@@ -29,7 +29,7 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 ## Firebot Scripts
 | Name | Link | Description |
 |----|----|----|
-| Emote Wall | [Github](https://github.com/CheevoSeeker/firebot-script-emote-wall ) | Gives you that "emotes flying across the stream" godness |
+| Emote Wall | [Github](https://github.com/CheevoSeeker/firebot-script-emote-wall ) | Gives you that "emotes flying across the stream" goodness |
 | OBS Control | [Github](https://github.com/ebiggz/firebot-script-obs-control ) | Allows you (and your viewers / moderators) to change settings in OBS. Great for implementing a `Panic Mode` if things go sideways. |
 
 ## Audio
