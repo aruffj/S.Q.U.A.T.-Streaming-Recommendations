@@ -36,6 +36,7 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 | Name | Link | Description |
 |----|----|----|
 | Reaper ReaPlugs | [Website](https://www.reaper.fm/reaplugs/) | A bunch of free and useful VSTs to filter your sound (e.g. gating background noise, equalizing, compression) |
+| LoudMax | [Website](https://loudmax.blogspot.com/) | VST that prevents audio from clipping. |
 
 ## Video Production
 | Name | Link | Description |
