@@ -7,7 +7,7 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 ## Essential
 | Name | Link | Description |
 |----|----|----|
-| Open Broadcaster Software (OBS Studio) | [Website](https://obsproject.com/) | OBS is the essential, free tool to stream content from your PC to Twitch and the like. It is highly recommended to use OBS over SLOBS             |
+| Open Broadcaster Software (OBS Studio) | [Website](https://obsproject.com/) | OBS is the essential, free tool to stream content from your PC to Twitch and the like. It is highly recommended to use OBS over SLOBS |
 | Firebot | [Website](https://firebot.app) / [Support on Discord](https://discord.gg/crowbartools) | Firebot is a chatbot for Twitch that includes the option to have interactive elements (e.g. Follower notifications) directly on your own machine. |
 
 ## Additional Software
@@ -44,6 +44,11 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 | Blackmagic Design Davinci Resolve | [Website](https://www.blackmagicdesign.com/de/products/davinciresolve/) |  Free Version. Use that for transition animations etc. |
 | KDEnlive | [Website](https://kdenlive.org/en/) | Same as Davinci - Just Fully Open Source Software. A bit harder to use then Davinci |
 
+## Additional Stuff
+| Name | Link | Description |
+|----|----|----|
+| Twitch Chat Pronoun Picker | [Website](https://pronouns.alejo.io/) | Allows you to display your pronouns in Chat |
+
 # Paid Stuff
 Stuff below here offers some useful features but will constantly try to upsell you and/or rope you into their eco-system. 
 
@@ -53,3 +58,4 @@ Stuff below here offers some useful features but will constantly try to upsell y
 | StreamElements | [LINK](https://streamelements.com/) | Webservice to creat chat overlays, Follwer Counts etc. |
 | StreamLabs | [LINK](https://streamlabs.com/) | Webservice to creat chat overlays, Follwer Counts etc. |
 | Spotify Overlay | [LINK](https://nowplaying.site/) | Displays an animated "Now Playing" Thingiemagingie on your Stream |
+
