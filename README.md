@@ -50,6 +50,7 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 |----|----|----|
 | Twitch Chat Pronoun Picker | [Website](https://pronouns.alejo.io/) | Allows you to display your pronouns in Chat |
 | Minipadder | [Website](https://minipadder.link/) | Very easily allows you to show your controller overlay as a browser source in OBS. |
+| Gamepad Viewer | [Website](https://gamepadviewer.com/) / [Additional Skins](https://jayraydee.me/#free) | Same as Input Overlay / Minipadder - just better looking |
 
 # Paid Stuff
 Stuff below here offers some useful features but will constantly try to upsell you and/or rope you into their eco-system. 
