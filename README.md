@@ -25,6 +25,7 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 | obs-websocket | [OBS Plugins](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/) | Allows other programms (e.g. Firebot, Macrodeck) to communicate with your OBS. Setting a password is recommen. |
 | StreamFX | [Github](https://github.com/Xaymar/obs-StreamFX/releases) | Adds a ton of effects to OBS. Can be useful. |
 | Closed Captioning | [OBS Plugins](https://obsproject.com/forum/resources/closed-captioning-via-google-speech-recognition.833/) | Provides closed captioning via Google Cloud Speech Recognition API as a standalone OBS plugin. |
+| Move Transitions | [OBS Plugins](https://obsproject.com/forum/resources/move-transition.913/) | Great plugin for smooth in-scene moving transitions. Requires nested scenes to work properly. |
 
 ## Firebot Scripts
 | Name | Link | Description |
@@ -48,6 +49,7 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 | Name | Link | Description |
 |----|----|----|
 | Twitch Chat Pronoun Picker | [Website](https://pronouns.alejo.io/) | Allows you to display your pronouns in Chat |
+| Minipadder | [Website](https://minipadder.link/) | Very easily allows you to show your controller overlay as a browser source in OBS. |
 
 # Paid Stuff
 Stuff below here offers some useful features but will constantly try to upsell you and/or rope you into their eco-system. 
