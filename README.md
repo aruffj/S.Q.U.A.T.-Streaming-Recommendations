@@ -47,7 +47,6 @@ here's a list of stuff that the S.Q.U.A.T. uses in various setups.
 | Name | Link | Description |
 |----|----|----|
 | Twitch Chat Pronoun Picker | [Website](https://pronouns.alejo.io/) | Allows you to display your pronouns in Chat |
-| Input Overlay for OBS | [Website](https://obsproject.com/forum/resources/input-overlay.552/) | Native OBS Plugin to show inputs |
 | Minipadder | [Website](https://minipadder.link/) | Very easily allows you to show your controller overlay as a browser source in OBS. |
 | Gamepad Viewer | [Website](https://gamepadviewer.com/) / [Additional Skins](https://jayraydee.me/#free) | Same as Input Overlay / Minipadder - just better looking |
 
