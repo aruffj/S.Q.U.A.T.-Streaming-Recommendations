@@ -1,8 +1,7 @@
 # S.Q.U.A.T. Streaming Tool Recommendation
 
-Hi Squatters,
-After getting asked about our streaming software setups Splicer and I, synthie, decided to compile a handy list for you. Please find our recommendations below.
-
+Hi y'all,
+here's a list of stuff that the S.Q.U.A.T. uses in various setups. 
 
 ## Essential
 | Name | Link | Description |
@@ -21,8 +20,6 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 | Name | Link | Description |
 |----|----|----|
 | Input Overlay | [OBS Plugins](https://obsproject.com/forum/resources/input-overlay.552/) | Displays Controller, Mouse or Keyboards inputs in a beautified overlay. |
-| win-capture-audio | [OBS Plugins](https://github.com/bozbez/win-capture-audio) | Allows you to define programs as Audio Input. That way you can stream game audio while listening to music / a voice chat in the background without streaming that. |
-| obs-websocket | [OBS Plugins](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/) | Allows other programms (e.g. Firebot, Macrodeck) to communicate with your OBS. Setting a password is recommen. |
 | StreamFX | [Github](https://github.com/Xaymar/obs-StreamFX/releases) | Adds a ton of effects to OBS. Can be useful. |
 | Closed Captioning | [OBS Plugins](https://obsproject.com/forum/resources/closed-captioning-via-google-speech-recognition.833/) | Provides closed captioning via Google Cloud Speech Recognition API as a standalone OBS plugin. |
 | Move Transitions | [OBS Plugins](https://obsproject.com/forum/resources/move-transition.913/) | Great plugin for smooth in-scene moving transitions. Requires nested scenes to work properly. |
@@ -31,7 +28,6 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 | Name | Link | Description |
 |----|----|----|
 | Emote Wall | [Github](https://github.com/CheevoSeeker/firebot-script-emote-wall ) | Gives you that "emotes flying across the stream" goodness |
-| OBS Control | [Github](https://github.com/ebiggz/firebot-script-obs-control ) | Allows you (and your viewers / moderators) to change settings in OBS. Great for implementing a `Panic Mode` if things go sideways. |
 
 ## Audio
 | Name | Link | Description |
@@ -49,6 +45,7 @@ After getting asked about our streaming software setups Splicer and I, synthie, 
 | Name | Link | Description |
 |----|----|----|
 | Twitch Chat Pronoun Picker | [Website](https://pronouns.alejo.io/) | Allows you to display your pronouns in Chat |
+| Input Overlay for OBS | [Website](https://obsproject.com/forum/resources/input-overlay.552/) | Native OBS Plugin to show inputs |
 | Minipadder | [Website](https://minipadder.link/) | Very easily allows you to show your controller overlay as a browser source in OBS. |
 | Gamepad Viewer | [Website](https://gamepadviewer.com/) / [Additional Skins](https://jayraydee.me/#free) | Same as Input Overlay / Minipadder - just better looking |
 
