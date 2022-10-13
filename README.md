@@ -23,6 +23,8 @@ here's a list of stuff that the S.Q.U.A.T. uses in various setups.
 | StreamFX | [Github](https://github.com/Xaymar/obs-StreamFX/releases) | Adds a ton of effects to OBS. Can be useful. |
 | Closed Captioning | [OBS Plugins](https://obsproject.com/forum/resources/closed-captioning-via-google-speech-recognition.833/) | Provides closed captioning via Google Cloud Speech Recognition API as a standalone OBS plugin. |
 | Move Transitions | [OBS Plugins](https://obsproject.com/forum/resources/move-transition.913/) | Great plugin for smooth in-scene moving transitions. Requires nested scenes to work properly. |
+| Advanced Scene Switcher | [OBS Plugins](https://obsproject.com/forum/resources/advanced-scene-switcher.395/) | Let's you use macros when changing scenes e.g. to auto mute your Mic when you are BRB'ing |
+| Scene Tree Folder plugin for OBS Studio | [OBS Plugins](https://obsproject.com/forum/resources/scene-tree-folder-plugin-for-obs-studio.1500/) | Keeps your scenes organized. |
 
 ## Firebot Scripts
 | Name | Link | Description |
