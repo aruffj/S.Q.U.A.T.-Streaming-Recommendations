@@ -8,6 +8,7 @@ here's a list of stuff that the S.Q.U.A.T. uses in various setups.
 |----|----|----|
 | Open Broadcaster Software (OBS Studio) | [Website](https://obsproject.com/) | OBS is the essential, free tool to stream content from your PC to Twitch and the like. It is highly recommended to use OBS over SLOBS |
 | Firebot | [Website](https://firebot.app) / [Support on Discord](https://discord.gg/crowbartools) | Firebot is a chatbot for Twitch that includes the option to have interactive elements (e.g. Follower notifications) directly on your own machine. |
+| Streamer.bot | [Website](https://streamer.bot/) | Incredibly efficient and fast bot - but a lot more complicated then firebot. If you like to tinker with tech: This is the way to go. |
 
 ## Additional Software
 | Name | Link | Description |
@@ -25,6 +26,7 @@ here's a list of stuff that the S.Q.U.A.T. uses in various setups.
 | Move Transitions | [OBS Plugins](https://obsproject.com/forum/resources/move-transition.913/) | Great plugin for smooth in-scene moving transitions. Requires nested scenes to work properly. |
 | Advanced Scene Switcher | [OBS Plugins](https://obsproject.com/forum/resources/advanced-scene-switcher.395/) | Let's you use macros when changing scenes e.g. to auto mute your Mic when you are BRB'ing |
 | Scene Tree Folder plugin for OBS Studio | [OBS Plugins](https://obsproject.com/forum/resources/scene-tree-folder-plugin-for-obs-studio.1500/) | Keeps your scenes organized. |
+| Scene Collection Manager | [OBS Plugins](https://obsproject.com/forum/resources/scene-collection-manager.1434/) | Create backups - *including ALL source files* - with an easy interface. |
 
 ## Firebot Scripts
 | Name | Link | Description |
